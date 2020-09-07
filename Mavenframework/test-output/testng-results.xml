@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16133" started-at="2020-09-07T10:05:04 IST" finished-at="2020-09-07T10:05:20 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="16133" started-at="2020-09-07T10:05:04 IST" finished-at="2020-09-07T10:05:20 IST">
+      <class name="bussinessLogic.Mavenframework.AppTest">
+        <test-method status="PASS" signature="gou(java.lang.String)[pri:0, instance:bussinessLogic.Mavenframework.AppTest@23faf8f2]" name="gou" duration-ms="15695" started-at="2020-09-07T10:05:04 IST" finished-at="2020-09-07T10:05:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.guru99.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gou -->
+      </class> <!-- bussinessLogic.Mavenframework.AppTest -->
+      <class name="bussinessLogic.Mavenframework.AppTest2">
+        <test-method status="PASS" signature="gou(java.lang.String)[pri:0, instance:bussinessLogic.Mavenframework.AppTest2@2d6eabae]" name="gou" duration-ms="16064" started-at="2020-09-07T10:05:04 IST" finished-at="2020-09-07T10:05:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.guru99.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gou -->
+      </class> <!-- bussinessLogic.Mavenframework.AppTest2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
